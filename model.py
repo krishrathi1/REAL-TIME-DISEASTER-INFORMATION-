@@ -31,12 +31,12 @@ from sklearn.linear_model import LogisticRegression
 nlp = spacy.load("en_core_web_sm")
 
 # API Keys
-REDDIT_CLIENT_ID = "SQUbRpadRwSWGt-J3yt5OA"
-REDDIT_CLIENT_SECRET = "xQCng7YSvnSn_wzh49hDm6T_F6VdDg"
-REDDIT_USER_AGENT = "python:amanapp:1.0 (by /u/Alternative-Ice-4520)"
-NEWSAPI_KEY = "35abb12b5a7f4271959c55c1bf9c339c"
-WEATHER_API_KEY = "4d11442b39319278e80f53cca6dda808"
-NASA_API_KEY = "ymM4OrOQUSsgArtzEX06iWKB7QKWDVCTjQm5XrnD"
+REDDIT_CLIENT_ID = ""
+REDDIT_CLIENT_SECRET = ""
+REDDIT_USER_AGENT = ""
+NEWSAPI_KEY = ""
+WEATHER_API_KEY = ""
+NASA_API_KEY = ""
 
 # MongoDB Configuration
 MONGO_URI = "mongodb+srv://manthangohil58:1zEuwkz2fg5FSlF1@cluster0.ltuiy.mongodb.net/"
